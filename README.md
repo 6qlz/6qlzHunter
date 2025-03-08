@@ -1,6 +1,6 @@
 # 6qlzHunter
 
-"6qlzHunter" is a cutting-edge security assessment tool designed for comprehensive web application testing. Built for efficiency, it employs multi-threading and intelligent detection algorithms to uncover critical vulnerabilities, including SQL injection, Local File Inclusion (LFI), and Cross-Site Scripting (XSS). Whether scanning directories or analyzing attack surfaces, it provides security professionals with a streamlined, high-performance approach to penetration testing. With support for custom payloads and detailed reporting, 6qlzHunter is an essential addition to any security toolkit.
+**6qlzHunter** is a cutting-edge security assessment tool designed for comprehensive web application testing. Built for efficiency, it employs multi-threading and intelligent detection algorithms to uncover critical vulnerabilities, including SQL injection, Local File Inclusion (LFI), and Cross-Site Scripting (XSS). Whether scanning directories or analyzing attack surfaces, it provides security professionals with a streamlined, high-performance approach to penetration testing. With support for custom payloads and detailed reporting, 6qlzHunter is an essential addition to any security toolkit.
 
 ## Features
 - **Directory Scanner**: Detects exposed directories and misconfigurations.
