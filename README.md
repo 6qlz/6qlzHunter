@@ -10,7 +10,7 @@
 - **Optimized Multi-threading**: Maximizes performance with concurrent execution.
 - **Custom Payload Support**: Load external payloads for adaptive scanning.
 - **Detailed Reports**: Generates structured, color-coded results.
-- 
+
   ![Alt text](https://i.imgur.com/MYWKq6X.png)
 
 ## Status 
