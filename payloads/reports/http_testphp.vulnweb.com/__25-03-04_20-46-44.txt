@@ -1,0 +1,16 @@
+# Dirsearch started Tue Mar  4 20:49:12 2025 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://testphp.vulnweb.com/ -w /home/iblame6qlz/Downloads/big.txt -t 100 --timeout 1
+
+301   169B   http://testphp.vulnweb.com/CVS    -> REDIRECTS TO: http://testphp.vulnweb.com/CVS/
+301   169B   http://testphp.vulnweb.com/admin    -> REDIRECTS TO: http://testphp.vulnweb.com/admin/
+403   276B   http://testphp.vulnweb.com/cgi-bin/
+403   276B   http://testphp.vulnweb.com/cgi-bin
+404   273B   http://testphp.vulnweb.com/cgi-bin_ssl
+404   273B   http://testphp.vulnweb.com/cgi-bin-church
+404   273B   http://testphp.vulnweb.com/cgi-bin-debug
+404   273B   http://testphp.vulnweb.com/cgi-bin-live
+404   273B   http://testphp.vulnweb.com/cgi-bin2
+200   894B   http://testphp.vulnweb.com/favicon.ico
+301   169B   http://testphp.vulnweb.com/images    -> REDIRECTS TO: http://testphp.vulnweb.com/images/
+301   169B   http://testphp.vulnweb.com/pictures    -> REDIRECTS TO: http://testphp.vulnweb.com/pictures/
+301   169B   http://testphp.vulnweb.com/secured    -> REDIRECTS TO: http://testphp.vulnweb.com/secured/
+301   169B   http://testphp.vulnweb.com/vendor    -> REDIRECTS TO: http://testphp.vulnweb.com/vendor/
