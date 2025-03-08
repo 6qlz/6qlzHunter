@@ -34,5 +34,5 @@ python3 6qlz.py
 ```
 
 ## Disclaimer
-This tool is intended solely for ethical security research and authorized testing. Unauthorized use against systems without explicit permission is strictly prohibited and may violate laws and regulations.
+This tool is intended for ethical security research and authorized testing. Unauthorized use against systems without explicit permission is strictly prohibited and may violate laws and regulations.
 
