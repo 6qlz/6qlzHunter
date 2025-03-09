@@ -21,7 +21,7 @@
 Ensure Python 3 is installed. Clone and set up dependencies:
 
 ```bash
-git clone git@github.com:6qlz/6qlzHunter.git
+git clone https://github.com/6qlz/6qlzHunter
 cd 6qlzHunter
 pip install -r requirements.txt
 ```
